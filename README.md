@@ -14,4 +14,4 @@
 Если вы найдете ошибку, то смело идите во вкладку "Issues" и пишите суть бага/ошибки.
 Для ускорения процесса можно еще мне написать в ВК об этом (https://vk.com/nikita.beloglazov)
 
-.•°●~❤ NikitaBeloglazov Software Foundation ❤~●°•.
+.•°●❤ NikitaBeloglazov Software Foundation ❤●°•.
